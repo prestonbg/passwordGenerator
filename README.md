@@ -4,13 +4,9 @@ PasswordGenerator is a simple program for generating strong passwords
 
 🛠 Setting
 
-1. Download the code or clone the repository:
+Download the code or clone the repository:
 
-git clone https://github.com/your_username/passwordGenerator.git
-
-2. Install dependencies (if the program requires additional libraries):
-
-pip install -r requirements.txt
+git clone https://github.com/prestonbg/passwordGenerator.git
 
 
 ▶️ Run
@@ -41,6 +37,4 @@ This project is distributed under the MIT license.
 
 ✉️ Contact
 
-If you have any questions or suggestions, email me: your_email@example.com
-
-Translated with DeepL.com (free version)
+If you have any questions or suggestions, email me: hellscreamm999@gmail.com
