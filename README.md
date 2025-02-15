@@ -15,15 +15,6 @@ Run the program via terminal or command line:
 
 python passwordGenerator.py
 
-⚙️ Settings
-
-At startup, the program may ask for:
-
-Password length (default is 12 characters)
-
-Use of numbers (yes/no)
-
-Use of special characters (yes/no)
 
 🛡 Security
 
